@@ -2,6 +2,7 @@
 
 A video or photo collage is a grouping of two or more smaller images and/or videos into 1 frame. Figure 1, for example has 6 smaller areas, each filled with and image and/or video. Creating such a collage isn't very difficult. Yet, there are quite a few steps to take. Automating this process could definitely help here a lot.
 
+
 <figure>
   <img src="photo-collage.png" alt="Example of collage"/>
   <figcaption>Figure 1: collage with 6 areas for video and/or images</figcaption>
